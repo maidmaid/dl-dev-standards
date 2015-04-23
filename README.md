@@ -1,4 +1,4 @@
-# Standard de développement 
+# Standards de développement 
 
 ## IDE
 
