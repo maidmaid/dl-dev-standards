@@ -14,7 +14,7 @@ De plus, sont appliqués :
 
 - les règles de [structure de Symfony](http://symfony.com/doc/current/contributing/code/standards.html#structure),
 - les [conventions de nommage de Symfony](http://symfony.com/doc/current/contributing/code/standards.html#naming-conventions),
-- les règles de [conventions de nom de méthodes de Symfony](http://symfony.com/doc/current/contributing/code/conventions.html#method-names),
+- les règles de [conventions de nom de méthodes de Symfony](http://symfony.com/doc/current/contributing/cofde/conventions.html#method-names),
 - les règles de [documentation de Symfony](http://symfony.com/doc/current/contributing/code/standards.html#documentation),
 - les [conventions de nom de services de Symfony](http://symfony.com/doc/current/contributing/code/standards.html#service-naming-conventions) dans l'utilisation d'un DI (dependency injection).
 
@@ -226,7 +226,7 @@ Le message du commit est :
 - écrit en EN,
 - fixé à 50 charactères,
 - capitalisé (première lettre en majuscule),
-- écrit à la form impérative (ex: _fix, update, remove, add, refactore, rename, move, improve, cleanup, import, revert, merge, use, check, reduce, ..._).
+- écrit à la forme impérative (ex: _fix, update, remove, add, refactore, rename, move, improve, cleanup, import, revert, merge, use, check, reduce, ..._).
 
 Article détaillant ces consignes : [http://chris.beams.io/posts/git-commit/](http://chris.beams.io/posts/git-commit/)
  
