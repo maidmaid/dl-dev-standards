@@ -4,6 +4,8 @@
 
 L'IDE utilisé est [PhpStorm](https://www.jetbrains.com/phpstorm/).
 
+[Préconfiguration de PhpStorm](phpstorm-config.md).
+
 ## PHP
 
 D'une manière générale, les standards syntaxiques de Digital Link pour écrire du PHP suivent les standards de développement [PSR-1](http://www.php-fig.org/psr/psr-1/) et [PSR-2](http://www.php-fig.org/psr/psr-2/) du php-fig.
